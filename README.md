@@ -1,4 +1,4 @@
-## kgdn @ github
+## $ kgdn@github
 
 Welcome to my GitHub page! Here I'll upload open source projects that sometimes relate to university, and sometimes they're just personal projects I'd like to share with the Internet. Feedback is more than welcome on any and all projects!
 
