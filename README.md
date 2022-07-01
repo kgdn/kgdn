@@ -5,7 +5,7 @@ Welcome to my GitHub page! Here I'll upload open source projects that sometimes 
 ## Stats
 [![kgdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgdn&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgdn&background=161320&currStreakNum=D9E0EE&sideNums=D9E0EE&sideLabels=DDB6F2&dates=D9E0EE&ring=96CDFB&fire=96CDFB&currStreakLabel=D9E0EE&border=FFFFFF&stroke=FFFFFF)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&langs_count=8&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&langs_count=8&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More about me
 I'm currently in my third year of a Computer Systems degree at Heriot-Watt University, Edinburgh. My primary interests include:
