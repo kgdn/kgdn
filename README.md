@@ -8,7 +8,7 @@ Welcome to my GitHub page! Here I'll upload open source projects that sometimes 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&langs_count=8&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More about me
-I'm currently in my third year of a Computer Systems degree at Heriot-Watt University, Edinburgh. My primary interests include:
+My primary interests include:
 1. GNU/Linux
 2. Open Source Software 
 4. Networking and the Internet
