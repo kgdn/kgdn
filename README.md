@@ -4,7 +4,9 @@ Welcome to my GitHub page! Here I'll upload open source projects that sometimes 
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats)
+
 [![kgdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgdn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgdn)](https://git.io/streak-stats)
 
 ## More about me
