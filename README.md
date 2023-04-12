@@ -1,15 +1,17 @@
 ## kgdn@github
 
-Welcome to my GitHub page! Here I'll upload open source projects that sometimes relate to university, and sometimes they're just personal projects I'd like to share with the Internet. Feedback is more than welcome on any and all projects!
+Hey there, welcome to my GitHub page! This is where I'll be sharing some of my open source projects, which could be related to my university work or just some of my personal projects that I'd like to show off to the internet. Don't be shy to share any feedback on any of the projects!
 
-My primary interests include:
+As for my interests, they mainly revolve around:
+
 - 💻 Web Development
 - 💬 Natural Language Processing
 - 🐧 GNU/Linux and Unix-like operating systems
 
 ## Stats
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats) | [![kgdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgdn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgdn)](https://git.io/streak-stats)
-| --- | --- | --- |
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats) | [![kgdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgdn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgdn)](https://git.io/streak-stats) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
