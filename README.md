@@ -10,8 +10,8 @@ As for my interests, they mainly revolve around:
 
 ## Stats
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats) | [![kgdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgdn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kgdn)](https://git.io/streak-stats) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats) | [![kgdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgdn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
