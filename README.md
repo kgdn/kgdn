@@ -11,7 +11,7 @@ As for my interests, they mainly revolve around:
 ## Stats
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&hide=css,ejs)](https://github.com/anuraghazra/github-readme-stats) | [![kgdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgdn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ 
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -27,3 +27,5 @@ As for my interests, they mainly revolve around:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+<a rel="me" href="https://mastodon.scot/@kgdn"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
