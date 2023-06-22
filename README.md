@@ -5,7 +5,7 @@ Hey there, welcome to my GitHub page! This is where I'll be sharing some of my o
 As for my interests, they mainly revolve around:
 
 - 💻 Web Development
-- 💬 Natural Language Processing
+- 🔒 Cyber Security & Privacy
 - 🐧 GNU/Linux and Unix-like operating systems
 
 ## Stats
