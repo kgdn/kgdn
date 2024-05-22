@@ -8,8 +8,6 @@ kgdn@github:~/$ cat /etc/motd
 
 > 🌱️ currently learning about web development and cybersecurity.
 
-> 📚️ studying computer systems at [heriot-watt university](https://www.hw.ac.uk/).
-
 <hr>
 
 <div align="center">
