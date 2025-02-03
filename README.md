@@ -2,11 +2,7 @@
 kgdn@github:~/$ cat /etc/motd
 ```
 
-### hi, i'm [kieran](https://kgdn.xyz). 👋
-
-> 🎓️ avid linux user and open-source enthusiast.
-
-> 🌱️ currently learning about web development and cybersecurity.
+### Hi, I'm [Kieran](https://kgdn.xyz). 👋
 
 <hr>
 
@@ -19,6 +15,7 @@ kgdn@github:~/$ cat /etc/motd
 <hr>
 
 <div align="center">
+    <img align="center" src="https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" />
   <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
