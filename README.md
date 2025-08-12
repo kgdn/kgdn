@@ -2,7 +2,7 @@
 kgdn@github:~/$ cat /etc/motd
 ```
 
-### Hi, I'm [Kieran](https://kgdn.dev). 👋
+### hi, i'm [kieran](https://kgdn.dev).
 
 <hr>
 
