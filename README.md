@@ -7,14 +7,6 @@ kgdn@github:~/$ cat /etc/motd
 <hr>
 
 <div align="center">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=kgdn&rank_icon=github&show_icons=true&theme=dark" />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgdn&layout=compact&hide=html,css&theme=dark" />
-</a>
-</div>
-
-<hr>
-
-<div align="center">
     <img align="center" src="https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" />
   <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
